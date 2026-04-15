@@ -67,6 +67,7 @@ Amazon RDS (MySQL Database)
   * Allow SSH (22)
   * Allow HTTP (80)
   * Allow HTTPS (443)
+    
 
 ---
 
@@ -253,3 +254,14 @@ sudo chown -R apache:apache /var/www/html
 ```
 
 -<img width="1920" height="853" alt="Screenshot 2026-04-14 192936" src="https://github.com/user-attachments/assets/b563079c-60a3-4d77-82c8-ddf41ea648cf" />
+<img width="1920" height="848" alt="Screenshot 2026-04-14 192800" src="https://github.com/user-attachments/assets/a3bd1f8c-39b0-4324-81bf-1032d04998e5" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-14 194230" src="https://github.com/user-attachments/assets/6e0288bd-4380-443e-8e3c-e31d4550746f" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-14 185841" src="https://github.com/user-attachments/assets/77ec1e8f-930b-4617-aa2c-9271d77e4ee1" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-14 190934" src="https://github.com/user-attachments/assets/d16a4322-0834-4150-85ed-96565aec5be1" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-14 191106" src="https://github.com/user-attachments/assets/63fd1490-30a9-4f0f-b7de-0a49daffd9df" />
+
+
+
+
+
+
