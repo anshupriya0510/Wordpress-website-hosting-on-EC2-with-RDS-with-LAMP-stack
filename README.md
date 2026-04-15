@@ -252,28 +252,4 @@ sudo systemctl status httpd
 sudo chown -R apache:apache /var/www/html
 ```
 
----
-
-## 🙌 Author
-
-**Your Name**
-
----
-
-## 📚 Learning Outcome
-
-* Hands-on experience with AWS EC2 and RDS
-* Understanding of cloud-based architecture
-* Deployment of real-world web application
-* Networking and security configuration
-
----
-
-## ⭐ Acknowledgement
-
-This project was built as part of hands-on practice to understand real-world cloud deployment using AWS services.
-
-│── README.md
-│── screenshots/
-│── architecture.png
-```
+-<img width="1920" height="853" alt="Screenshot 2026-04-14 192936" src="https://github.com/user-attachments/assets/b563079c-60a3-4d77-82c8-ddf41ea648cf" />
